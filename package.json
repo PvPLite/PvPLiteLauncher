@@ -33,7 +33,7 @@
     "jquery": "^3.6.0",
     "node-stream-zip": "^1.15.0",
     "request": "^2.88.2",
-    "enpm:@pvplite/core": "^1.0.2"
+    "pvplite:@pvplite/core": "^1.0.2"
   },
   "devDependencies": {
     "electron": "^15.2.0",
